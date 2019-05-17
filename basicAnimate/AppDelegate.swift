@@ -1,10 +1,8 @@
-//
-//  AppDelegate.swift
+// AppDelegate.swift
 //  basicAnimate
 //
-//  Created by tjoa ay hok on 17/05/19.
+//  Created by Ay Hok on 17/05/19.
 //  Copyright © 2019 ayhok2426. All rights reserved.
-//
 
 import UIKit
 
